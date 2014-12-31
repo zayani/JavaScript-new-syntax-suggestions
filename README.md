@@ -1,0 +1,2 @@
+JavaScript-new-syntax-suggestions
+=================================
