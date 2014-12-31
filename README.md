@@ -1,7 +1,7 @@
 JavaScript-new-syntax-suggestions
 =================================
 
-### Variable property names (keys) in JavaScript Object Literal 
+### Variable property name (key) in JavaScript Object Literal 
 
 ````js
 var v="variable",
